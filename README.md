@@ -1,2 +1,2 @@
-# task-mamanger
+# task-manager
 Intern Project
